@@ -7,11 +7,11 @@
 
 ## Curso completo para aprender a trabjar con Java desde cero y para principiantes.
 
-![JAVA](https://img.shields.io/badge/Java-22.0+-orange)
-![SPRING BOOT](https://img.shields.io/badge/SpringBoot-3.3.5+-6cb52d)
-![MYSQL](https://img.shields.io/badge/MySQL-8.0+-blue)
-![CHATGPT](https://img.shields.io/badge/ChatGPT-GPT--4-black)
-![MONGODB](https://img.shields.io/badge/MONGODB-6.0+-239550)
+[![Java](https://img.shields.io/badge/Java-22+-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5+-green?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)](https://spring.io/projects/spring-boot)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 Bienvenidos al Curso de Java desde Cero: un curso gratuito y completo, diseñado para que cualquier persona, independientemente de su nivel, aprenda Java de manera sólida y práctica.
 
